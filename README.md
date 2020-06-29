@@ -1,7 +1,7 @@
 # Excel-Sheets-To-One-Column-Txt
 Turns the contents of spreadsheets into a single columns separated by category (column) with a header category (index)
 
-The purpose of Spreadsheet Values To Single Row In Text File is to transform an xlsx file's data to one big row in a text file.
+The purpose of Excel-Sheets-To-One-Column-Txt is to transform an xlsx file's data to one big row in a text file.
 This was done to enable easier qualitative data analysis coding (the process of highlighting qualitative data for later analysis - 
 not programming coding).
 
