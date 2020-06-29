@@ -43,13 +43,13 @@ Europe
 
 There are two options when running the script:
 
-You can go `'fast'` which will rinse every single xlsx file within a folder.<br>
+You can go `fast` which will rinse every single xlsx file within a folder.<br>
 This will open the file and iterate over each sheet whereby whatever is in A:A will function as the index (in the above example, country, Monaco)
 and will then output all the other columns within the sheet (in above example, region, continent, population etc).<br>
 It outputs a .txt file named `xlsxname_sheetname.txt` where `xlsxname` is the name of the workbook and `sheetname` is the name of the worksheet.<br>
 Each worksheet gets its own textfile.
 
-The second option is to go `'slow'` whereby it will iterate over every xlsx in a folder but ask the user to select:
+The second option is to go `slow` whereby it will iterate over every xlsx in a folder but ask the user to select:
 
 <ol>
 	<li>The sheets to keep
