@@ -1,4 +1,5 @@
 # Excel-Sheets-To-One-Column-Txt
+Admittedly, this is my first github forray. Sorry for any errors.
 Turns the contents of spreadsheets into a single columns separated by category (column) with a header category (index)
 
 The purpose of Excel-Sheets-To-One-Column-Txt is to transform an xlsx file's data to one big row in a text file.
