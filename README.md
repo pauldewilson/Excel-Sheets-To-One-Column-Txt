@@ -16,22 +16,29 @@ An example would be a spreadsheet table that looks like this (from CSV format) w
 and turn it into:
 
 ####################
+<br>
 Monaco
+<br>
 ####################
 
-----------region: 
+----------region:
+<br>
 Western Europe
 
-----------continent: 
+----------continent:
+<br>
 Europe
 
 ----------population: 
+<br>
 39242
 
 ----------gdp: 
+<br>
 6468000877
 
 ----------gdppc: 
+<br>
 164823
 
 There are two options when running the script:
@@ -43,6 +50,9 @@ It then outputs a .txt file named xlsxname_sheetname.txt where xlsxname is the n
 Each worksheet gets its own textfile.
 
 The second option is to go 'slow' whereby it will iterate over every xlsx in a folder but ask the user to select:
-	1. The sheets to keep
-	2. The columns within the kept sheets to use and,
-	3. The index column (which can be in any column, not just A:A) which ultimately will be the primary cateogry (above example, country)
+
+<ol>
+	<li>The sheets to keep
+	<li>The columns within the kept sheets to use and,
+	<li>The index column (which can be in any column, not just A:A) which ultimately will be the primary cateogry (above example, country)
+</ol>
