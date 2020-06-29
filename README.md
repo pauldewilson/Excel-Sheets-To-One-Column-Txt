@@ -10,7 +10,7 @@ It provides some very basic formatting based upon the category (column).
 
 An example would be a spreadsheet table that looks like this (from CSV format) where each row is formatted in the same way:
 
-`country,region,continent,population,gdp,gdppc<br>`
+`country,region,continent,population,gdp,gdppc`<br>
 `Monaco,Western Europe,Europe,39242,6468000877,164823`
 
 and turn it into:
