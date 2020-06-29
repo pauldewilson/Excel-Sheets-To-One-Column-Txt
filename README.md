@@ -54,5 +54,5 @@ The second option is to go `slow` whereby it will iterate over every xlsx in a f
 <ol>
 	<li>The sheets to keep
 	<li>The columns within the kept sheets to use and,
-	<li>The index column (which can be in any column, not just A:A) which ultimately will be the primary cateogry (above example, country)
+	<li>The index column (which can be in any column, not just A:A) which ultimately will be the primary category (above example, country)
 </ol>
